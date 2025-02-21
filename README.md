@@ -18,5 +18,4 @@ Currently, I'm diving into **Medical Physics and NLP**, blending my physics back
 - **Databases**: MySQL, MongoDB, SQLite  
 - **Cloud & Tools**: Git, GitHub, Streamlit, Power B, AWS  
 
-### 📫 Connect with Me  
-📧 [clementmphethi@gmai.com](Clement Mphethi)  
+### 📫 How to reach me [clementmphethi@gmai.com]
