@@ -22,4 +22,4 @@ Currently, I'm diving into **Medical Physics and Artificial intelligence**, blen
 - **Databases**: MySQL, SQLite  
 - **Cloud & Tools**: Git, GitHub, Streamlit, Power BI, AWS  
 
-### 📫 How to reach me [clementmphethi@gmai.com]
+### 📫 How to reach me clementmphethi@gmai.com
